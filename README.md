@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Mohan SRivastava
+- 👋 Hi, I’m Aditya Mohan Srivastava
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Sql
 - 📫 reach me through adityamohan132@gmail.com
