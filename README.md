@@ -69,7 +69,7 @@ Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 ### 🛠️ Tools & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,streamlit,azure,vscode,postgres,mysql" alt="Tools & Cloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,postgres,mysql" alt="Tools & Cloud" />
 </p>
 
 <p align="center">
