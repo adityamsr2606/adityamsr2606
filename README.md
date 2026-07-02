@@ -1,19 +1,16 @@
-# Hi 👋, I'm Aditya
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 
-```{=html}
+<h3 align="center">Aspiring Data Analyst • Data Engineer • Machine Learning Enthusiast</h3>
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Data+Engineer;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+PySpark+%7C+Azure;Building+with+Data,+Not+Assumptions."/>`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+PySpark;Azure+Data+Factory+%7C+SSIS+%7C+PostgreSQL;Machine+Learning+%7C+PyTorch;Building+with+Data,+Not+Assumptions." alt="Typing SVG" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=adityamsr2606&style=for-the-badge"/>`{=html}
-```{=html}
+  <img src="https://komarev.com/ghpvc/?username=adityamsr2606&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
-```
+
+
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adityamsr2606)
@@ -69,15 +66,17 @@ Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-bad
 ![Deep
 Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 
-### Tools & Cloud
+### 🛠️ Tools & Cloud
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,streamlit,azure,vscode,postgres,mysql"/>`{=html}
-```{=html}
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,streamlit,azure,vscode,postgres,mysql" alt="Tools & Cloud" />
 </p>
-```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+
 ## 📚 Currently Learning
 
 -   Deep Learning
@@ -103,8 +102,17 @@ Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 
 ## 🐍 Contribution Snake
 
-![Snake
-animation](https://github.com/adityamsr2606/adityamsr2606/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityamsr2606/adityamsr2606/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
-> "Without data, you're just another person with an opinion." --- W.
-> Edwards Deming
+---
+
+<div align="center">
+
+### 💡 Quote
+
+*"Without data, you're just another person with an opinion."*  
+**— W. Edwards Deming**
+
+</div>
