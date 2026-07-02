@@ -100,13 +100,6 @@ Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=adityamsr2606&theme=tokyo-night)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityamsr2606/adityamsr2606/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
 
 <div align="center">
 
