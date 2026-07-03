@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi , I'm Aditya</h1>
 
-<h3 align="center">Aspiring Data Analyst • Data Engineer • Machine Learning Enthusiast</h3>
+<h3 align="center">Data Science • Data Engineering • Machine Learning </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+PySpark;Azure+Data+Factory+%7C+SSIS+%7C+PostgreSQL;Machine+Learning+%7C+PyTorch;Building+with+Data,+Not+Assumptions." alt="Typing SVG" />
@@ -11,7 +11,7 @@
 </p>
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adityamsr2606)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-mohan-srivastava-ba081a270/)
@@ -20,16 +20,15 @@
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+##  About Me
 
--   📊 Building data-driven solutions using **Python & SQL**
--   📈 Strong foundation in **Data Analysis, Visualization &
+-    Building data-driven solutions using **Python & SQL**
+-    Strong foundation in **Data Science, Machine Learning &
     Statistics**
--   ⚙️ Interested in **Data Engineering** & **Data Science**
--   ☁️ Learning **Azure & Deep Learning**
--   💡 Building with **data, not assumptions**
+-    Interested in **Data Engineering** & **Data Science**
+-    Learning **Azure & Deep Learning**
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 
@@ -57,7 +56,7 @@ Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-ba
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
 
-### Machine Learning
+### Data Science & Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
@@ -77,14 +76,14 @@ Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 </p>
 
 
-## 📚 Currently Learning
+##  Currently Learning
 
 -   Deep Learning
 -   Azure Data Engineering
 -   Advanced PySpark
 -   MLOps
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=adityamsr2606&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -92,11 +91,11 @@ Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamsr2606&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=adityamsr2606&theme=tokyonight&no-frame=true&row=1&column=7)
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=adityamsr2606&theme=tokyo-night)
 
