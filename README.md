@@ -65,7 +65,7 @@ Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-bad
 ![Deep
 Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 
-### 🛠️ Tools & Cloud
+###  Tools & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,postgres,mysql" alt="Tools & Cloud" />
@@ -102,7 +102,7 @@ Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 
 <div align="center">
 
-### 💡 Quote
+###  Quote
 
 *"Without data, you're just another person with an opinion."*  
 **— W. Edwards Deming**
