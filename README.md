@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=adityamsr2606&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
 
 ## Connect
 
@@ -36,7 +35,6 @@
 
 </p>
 
----
 
 ## About Me
 
@@ -48,7 +46,6 @@ I enjoy working with modern data technologies and continuously expanding my know
 - Currently learning Machine Learning, Deep Learning, and Azure Data Engineering
 - Passionate about solving real-world business problems with data
 
----
 
 ## Tech Stack
 
@@ -101,7 +98,6 @@ I enjoy working with modern data technologies and continuously expanding my know
   <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
 </p>
 
----
 ## Currently Focus
 
 - Building end-to-end Data Analytics projects
@@ -110,7 +106,6 @@ I enjoy working with modern data technologies and continuously expanding my know
 - Exploring Machine Learning and Deep Learning
 - Strengthening SQL and PySpark skills
 
----
 
 ## GitHub Stats
 
@@ -124,7 +119,6 @@ I enjoy working with modern data technologies and continuously expanding my know
   <img width="65%" src="https://streak-stats.demolab.com?user=adityamsr2606&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## GitHub Trophies
 
@@ -132,7 +126,6 @@ I enjoy working with modern data technologies and continuously expanding my know
   <img src="https://github-profile-trophy.vercel.app/?username=adityamsr2606&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
----
 
 ##  Contribution Graph
 
