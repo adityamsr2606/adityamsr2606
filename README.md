@@ -102,7 +102,7 @@ I enjoy working with modern data technologies and continuously expanding my know
 </p>
 
 ---
-## Currently Working On
+## Currently Focus
 
 - Building end-to-end Data Analytics projects
 - Developing scalable ETL pipelines
@@ -115,17 +115,13 @@ I enjoy working with modern data technologies and continuously expanding my know
 ## GitHub Stats
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityamsr2606&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityamsr2606&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamsr2606&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamsr2606&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=adityamsr2606&theme=tokyonight&hide_border=true"/>
-
+  <img width="65%" src="https://streak-stats.demolab.com?user=adityamsr2606&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -133,16 +129,10 @@ I enjoy working with modern data technologies and continuously expanding my know
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityamsr2606&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityamsr2606&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamsr2606&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
